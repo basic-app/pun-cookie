@@ -1,0 +1,9 @@
+{
+    "name": "basic-app/pun-cookie",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BasicApp\\PunCookie\\": ""
+        }
+    }
+}
